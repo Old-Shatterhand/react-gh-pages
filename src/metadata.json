@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Swiss Chess Tournament Manager",
+  "description": "An application to manage a chess tournament using the Swiss system. It handles player management, round pairings, result tracking, and generates a final HTML report.",
+  "version": "1.0.0",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
